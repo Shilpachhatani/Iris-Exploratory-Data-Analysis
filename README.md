@@ -108,7 +108,7 @@ the selection and development of appropriate machine learning models for
 classification tasks.
 
 ## ▶️ Usage
-- Clone the repository: bash git clone `https://github.com/AhsanNFt/IrisDataset-Analysis.git`
+- Clone the repository: bash git clone `https://github.com/Shilpachhatani/Iris-Exploratory-Data-Analysis.git`
 - Navigate to the project directory: `bash cd Iris-Dataset-Analysis`
 - Open the Jupyter Notebook: `bash jupyter notebook Iris_analysis.ipynb`
 - Run the cells in the notebook to see the analysis and visualizations.
@@ -124,5 +124,5 @@ an issue or submit a pull request.
 
 ## 📬 Contact
 For questions or collaboration:
-- GitHub: `AhsanNFt`
-- Email: `syedahsan0991@gmail.com`
+- GitHub: `Shilpachhatani`
+- Email: `shilpachhatani669@gmail.com`
